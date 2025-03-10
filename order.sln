@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "order", "order\", "{27B5A983-0FDA-4DD4-9470-881856CC7D0F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52714"
+		Debug.AspNetCompiler.PhysicalPath = "order\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52714\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52714"
+		Release.AspNetCompiler.PhysicalPath = "order\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52714\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52714"
+		SlnRelativePath = "order\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{AFF31F3F-2C06-498E-BF0D-1D7137FD44D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B5A983-0FDA-4DD4-9470-881856CC7D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B5A983-0FDA-4DD4-9470-881856CC7D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B5A983-0FDA-4DD4-9470-881856CC7D0F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B5A983-0FDA-4DD4-9470-881856CC7D0F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{AFF31F3F-2C06-498E-BF0D-1D7137FD44D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF31F3F-2C06-498E-BF0D-1D7137FD44D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF31F3F-2C06-498E-BF0D-1D7137FD44D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF31F3F-2C06-498E-BF0D-1D7137FD44D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1362549-8449-4CCB-8521-318D5A7FA769}
+	EndGlobalSection
+EndGlobal
